@@ -1,0 +1,2 @@
+class RandomDrink::Information
+end
